@@ -1,0 +1,6 @@
+opencv-python
+numpy
+tqdm
+https://developer.download.nvidia.com/compute/redist/jp/v502/pytorch/torch-1.13.0a0+d0d6b1f2.nv22.10-cp38-cp38-linux_aarch64.whl
+torchvision==0.14.0
+torchaudio==0.13.0 
